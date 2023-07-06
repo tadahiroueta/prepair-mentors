@@ -1,11 +1,11 @@
 {
-    "short_name": "",
-    "name": "",
+    "short_name": "PrePAIR Mentors",
+    "name": "PrePAIR Mentors",
     "icons": [
       {
-        "src": "",
-        "sizes": "",
-        "type": ""
+        "src": "logo.png",
+        "sizes": "118x118",
+        "type": "image/png"
       }
     ],
     "start_url": ".",
